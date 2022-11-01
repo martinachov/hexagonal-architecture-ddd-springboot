@@ -9,6 +9,9 @@ import com.martinachov.hexagonal.infrastructure.adapters.output.persistence.Prod
 import com.martinachov.hexagonal.infrastructure.adapters.output.persistence.mapper.ProductMapper;
 import com.martinachov.hexagonal.infrastructure.adapters.output.persistence.repository.ProductRepository;
 
+/**
+ * Configuracion BEANS
+ */
 @Configuration
 public class BeanConfiguration {
     
